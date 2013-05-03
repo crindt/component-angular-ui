@@ -1,0 +1,16 @@
+{
+  "name": "angular-ui",
+  "repo": "crindt/component-angular-ui",
+  "description": "Component wrapper for angular-ui library",
+  "version": "0.4.0",
+  "keywords": ["angular"],
+  "main": "index-browserify.js",
+  "scripts": [
+      "index-browserify.js",
+      "angular-ui.js",
+      "angular-ui-ieshiv.js"
+  ],
+  "styles": [
+      "angular-ui.css"
+  ]
+}
